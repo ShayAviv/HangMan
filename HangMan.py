@@ -166,5 +166,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-#קובץ לדוגמא
-# C:\Users\shaya\PycharmProjects\beginning\בדיקה.TXT.txt
