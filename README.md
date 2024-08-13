@@ -1,6 +1,6 @@
 # 🎉 **Welcome to Hangman Madness!** 🎉
 
-![Hangman Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hiclipart.com%2Ffree-transparent-background-png-clipart-sdcaw&psig=AOvVaw0aOgpMYmU2ArATzbmQkLSN&ust=1723659952691000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiRu-vL8ocDFQAAAAAdAAAAABAP)
+<img src="image.png" alt="Hangman Banner" width="120" height="auto"/>
 
 🚀 **Version:** 1.0  
 👨‍💻 **Author:** Shay Aviv  
@@ -38,3 +38,41 @@
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/ShayAviv/HangMan.git
+
+## 🔥 **Wanna Check Out the Code?**
+
+[![Check the Code](https://img.shields.io/badge/See%20the%20Code%20🔥-Click%20Here-orange?style=for-the-badge)](https://github.com/ShayAviv/HangMan/blob/main/HangMan.py)
+
+---
+
+## 🤝 **Contributing**
+
+Feel free to fork this project, add your own twist, and send a pull request. Let’s make this the wildest Hangman game on GitHub!
+
+---
+
+## 🏆 **Credits**
+
+Big thanks to **Campus IL**, inspired me to undertake a project on the "self.py" course, awarding me a certification for my efforts.
+
+---
+
+## 📬 **Contact**
+
+Have questions? Want to collaborate? Reach out to me via [Linkedin](https://www.linkedin.com/in/shayaviv/).
+
+---
+
+## ⭐ **Don’t Forget to Star the Repo!**
+
+If you enjoyed the game, please give it a ⭐ on [GitHub](https://github.com/ShayAviv/HangMan)!
+
+---
+
+## 📜 **Certification**
+
+I received a certification for completing the "self.py" course. You can view and download the certification [here](https://courses.campus.gov.il/certificates/8ec0ea5dd07b4ec5b93c04c763a3ca64).
+
+---
+
+Enjoy playing and may the guessing gods be ever in your favor! 🎮💥
